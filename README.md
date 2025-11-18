@@ -203,7 +203,9 @@ Configure these in your repository settings:
 
 ### Docker Hub
 
-Published images: `https://hub.docker.com/r/<username>/<repo>`
+Published images: https://hub.docker.com/r/vishy211/fastapi_user_api
+
+![Docker Hub Screenshot](screenshots/Docker_hub_SS.png)
 
 ## 📝 Environment Variables
 
